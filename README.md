@@ -1,7 +1,5 @@
 # time-fix
-
-```
-Usage: time_fix.py [options] arguments
+``` Usage: time_fix.py [options] arguments
 
 Options:
   -h, --help            show this help message and exit
